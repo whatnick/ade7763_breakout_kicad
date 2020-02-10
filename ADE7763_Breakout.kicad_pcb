@@ -953,7 +953,7 @@
   (gr_text http://whatnicklife.blogspot.com (at 156.3623 95.7784) (layer B.SilkS) (tstamp 64B9E50)
     (effects (font (size 0.77216 0.77216) (thickness 0.16256)) (justify left bottom mirror))
   )
-  (gr_text "v1.0 25/11/2015" (at 152.5777 97.785) (layer B.SilkS) (tstamp 64B8A50)
+  (gr_text "v4.0 11/02/2020" (at 152.5777 97.785) (layer B.SilkS) (tstamp 64B8A50)
     (effects (font (size 0.77216 0.77216) (thickness 0.16256)) (justify left bottom mirror))
   )
   (gr_text "MAX Vp-p = 1V" (at 154.3303 98.5724) (layer F.SilkS) (tstamp 64BA530)

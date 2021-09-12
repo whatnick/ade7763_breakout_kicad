@@ -1672,7 +1672,7 @@
     (property "Value" "ADE7763ARSZSSOP20" (id 1) (at 145.288 133.9596 0)
       (effects (font (size 1.7526 1.7526)) (justify left bottom))
     )
-    (property "Footprint" "Package_SO:SSOP-20_4.4x6.5mm_P0.65mm" (id 2) (at 151.892 99.06 0)
+    (property "Footprint" "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm" (id 2) (at 151.892 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 151.892 99.06 0)
@@ -1782,7 +1782,7 @@
       (reference "SAG1") (unit 1) (value "WIREPADSMD1,27-254") (footprint "ADE7763_Breakout:SMD1,27-2,54")
     )
     (path "/00000000-0000-0000-0000-0000d4dd6c2c"
-      (reference "U1") (unit 1) (value "ADE7763ARSZSSOP20") (footprint "Package_SO:SSOP-20_4.4x6.5mm_P0.65mm")
+      (reference "U1") (unit 1) (value "ADE7763ARSZSSOP20") (footprint "Package_SO:SSOP-20_5.3x7.2mm_P0.65mm")
     )
     (path "/00000000-0000-0000-0000-000040767f2a"
       (reference "ZX1") (unit 1) (value "WIREPADSMD1,27-254") (footprint "ADE7763_Breakout:SMD1,27-2,54")

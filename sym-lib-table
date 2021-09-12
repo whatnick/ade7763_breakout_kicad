@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name ADE7763_Breakout-eagle-import)(type Legacy)(uri ${KIPRJMOD}/ADE7763_Breakout-eagle-import.lib)(options "")(descr ""))
+  (lib (name "ADE7763_Breakout-eagle-import")(type "Legacy")(uri "${KIPRJMOD}/ADE7763_Breakout-eagle-import.lib")(options "")(descr ""))
 )
